@@ -111,4 +111,4 @@ This project is an adaptation of the methodology proposed in:
 * **Mustafa Waqar** ([@MusW02](https://github.com/MusW02))
 * **Bilal Asif Burney** ([@BilalAsifB](https://github.com/BilalAsifB))
 * **M Sheharyar** ([@sheharyar1411](https://github.com/sheharyar1411))
-* **Arman Faisal** ([@k228708](https://github.com/k228708))
+* **Arman Faisal** ([@Arman-dev123](https://github.com/Arman-dev123)
